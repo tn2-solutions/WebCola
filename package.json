@@ -20,6 +20,9 @@
   },
   "description": "WebCola =======",
   "main": "WebCola/index.js",
+  "files": [
+    "WebCola/index.js"
+  ],
   "typescript": {
     "definition": "WebCola/index.d.ts"
   },
